@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm a student currently studying Maths and Computer Science
+
+
 
 <!--
 **PkTara/PkTara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
