@@ -1,6 +1,12 @@
 ## Hi there 👋
 I'm a student currently studying Maths and Computer Science
 
+Other projects I've worked on:
+https://github.com/tjfacos/SeekerBot   -> AI Drone
+https://github.com/olly192/game-jam-2025  -> 3D Time Reversal Game
+
+
+
 
 
 <!--
