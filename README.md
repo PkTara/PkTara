@@ -6,6 +6,7 @@ I'm in my third year at the University of Warwick, and currently on a year abroa
 
 🌐 Website: [cv.tfahey.uk](https://cv.tfahey.uk)
 
+
 ### I'm currently working on...
 
 - 📜 [Paper Jam - Twenty Plus One](https://github.com/PkTara/Paper-Jam-TwentyPlusOne) - A game played entierly in a pdf, made with typst
@@ -17,6 +18,9 @@ I'm in my third year at the University of Warwick, and currently on a year abroa
 - 🪞 [Mirage-Simulcra](https://github.com/MikeyMictan1/Mirage-Simulacrum), a game about interacting with your mirror image. Live [here](https://pktara.itch.io/mirage-simulacrum)
 - 🧗‍♀️ [Atlas - Climb Logging App](https://github.com/PkTara/Atlas)
 
+### Tech I've used and love
+
+![Tech](https://skillicons.dev/icons?i=godot,docker,vim,figma,linux,blender)
 
 
 
