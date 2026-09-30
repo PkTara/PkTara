@@ -15,8 +15,8 @@ I'm in my third year at the University of Warwick, and currently on a year abroa
 ### Other cool stuff I've done
 
 - 🧛 [Dice Roller for Vampires: The Masquerade](https://github.com/PkTara/VtM-Dice-Roller). You can also find it live [here](https://tfahey.uk/VtM-Dice-Roller/)
-- 🪞 [Mirage-Simulcra](https://github.com/MikeyMictan1/Mirage-Simulacrum), a game about interacting with your mirror image. Live [here](https://pktara.itch.io/mirage-simulacrum)
-- 🧗‍♀️ [Atlas - Climb Logging App](https://github.com/PkTara/Atlas)
+- 🪞 [Mirage-Simulcra](https://github.com/MikeyMictan1/Mirage-Simulacrum), a game about interacting with your mirror image. [Live here](https://pktara.itch.io/mirage-simulacrum) (but make sure to find the fullscreen button first!)
+- 🧗‍♀️ [Atlas - Climb Logging App](https://github.com/PkTara/Atlas) An app in React that I made to track your climbs. Also uses OpenCV to detect climbs via colour
 
 ### Tech I've used and love
 
